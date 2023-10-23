@@ -1,4 +1,4 @@
-FINDIA - Landing Page Description
+FINDIA - Landing Page Description https://mern4rtc.netlify.app/#home
 
 The Landing Page is fully styled using the Styled Components library and Chakra UI.
 
